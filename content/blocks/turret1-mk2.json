@@ -1,0 +1,34 @@
+{
+	"type": "burstTurret",
+	"name": "[red]Kill[]Shot Turret",
+	"description": "[#C70000]Give me your head.[]",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 3200,
+	"size": 4,
+	"inaccuracy": 0.1,
+	"reload": 600,
+	"shootCone": 20,
+	"shots": 1,
+	"range": 800,
+	"burstSpacing": 6,
+	"ammo": {
+		"Uranium": {
+			"speed": 25,
+			"damage": 3000,
+			"bulletWidth": 12,
+			"bulletHeight": 24,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 1
+		}
+	},
+	"requirements": [
+		{ "item": "Uranium", "amount": 400 },
+		{ "item": "titanium", "amount": 1000 },
+		{ "item": "thorium", "amount": 600 }
+	],
+	"category": "turret",
+	"shootSound": "uranfire",
+	"research": "fuse"
+}

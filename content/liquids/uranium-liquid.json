@@ -1,0 +1,8 @@
+{
+	"name": "Uranium Liquid",
+	"description": "It has so many energy. But this liquid is very [red]dangerous[]",
+	"temperature": 3,
+    "viscosity": 0.2,
+    "effect": "melting",
+    "color": "32CD32"
+}

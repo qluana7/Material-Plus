@@ -1,0 +1,42 @@
+{
+	"type": "burstTurret",
+	"name": "Minigun",
+	"description": "More [sky]FASTER!",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 1000,
+	"size": 2,
+	"inaccuracy": 30,
+	"reload": 0.3,
+	"shootCone": 20,
+	"shots": 1,
+	"range": 200,
+	"burstSpacing": 6,
+	"ammo": {
+		"graphite": {
+			"speed": 2,
+			"damage": 4,
+			"bulletWidth": 4,
+			"bulletHeight": 6,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 4
+		},
+		"silicon": {
+		"speed": 3,
+		"damage": 5
+		"bulletWidth": 6,
+		"bulletHight": 8,
+		"shootEffect": "shootSmall",
+		"ammoMultuplier": 6
+		}
+	},
+	"requirements": [
+		{ "item": "graphite", "amount": 30 },
+		{ "item": "silicon", "amount": 30 },
+		{ "item": "lead", "amount": 60 },
+	],
+	"category": "turret",
+	"shootSound": "shoot",
+	"research": "scatter"
+}

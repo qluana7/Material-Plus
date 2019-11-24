@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "[green]IonCube",
+	"description": "Future material. Have huge energy",
+	"hardness": 1,
+	"cost": 12.0,
+	"color": "#4aff6e",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.0
+}

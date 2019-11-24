@@ -1,0 +1,34 @@
+{
+	"type": "burstTurret",
+	"name": "OneShot Turret",
+	"description": "Nothing can survive this turret.",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 1400,
+	"size": 4,
+	"inaccuracy": 0.1,
+	"reload": 300,
+	"shootCone": 20,
+	"shots": 1,
+	"range": 500,
+	"burstSpacing": 6,
+	"ammo": {
+		"Uranium": {
+			"speed": 20,
+			"damage": 1500,
+			"bulletWidth": 8,
+			"bulletHeight": 18,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 1
+		}
+	},
+	"requirements": [
+		{ "item": "Uranium", "amount": 200 },
+		{ "item": "titanium", "amount": 500 },
+		{ "item": "thorium", "amount": 300 }
+	],
+	"category": "turret",
+	"shootSound": "uranfire",
+	"research": "fuse"
+}

@@ -1,0 +1,36 @@
+{
+	"type": "GenericSmelter",
+	"name": "[#32CD32]Uranium Melter"
+	"description": "It liquefies uranium. It needs [cyan]CryoFluid[]",
+	"health": 6000,
+	"liquidCapacity": 20,
+	"outputLiquid": {"liquid": "uranium-liquid", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 120,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 50.0,
+		"items": {
+			"items": [
+                                { "item": "Uranium", "amount": 2 }
+                                { "item": "titanium", "amount": 6 }
+			]
+		},
+                "liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.1,
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 50 },
+		{ "item": "Uranium", "amount": 5 },
+		{ "item": "silicon", "amount": 50 },
+		{ "item": "metaglass", "amount": 50 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.05
+	"research": "cryofluidmixer"
+}

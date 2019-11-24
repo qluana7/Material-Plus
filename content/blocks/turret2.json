@@ -1,0 +1,45 @@
+{
+	"type": "burstTurret",
+	"name": "Airshot",
+	"description": "ENEMIES IS FLIES.",
+	"targetAir": true,
+	"targetGround": false,
+	"health": 3200,
+	"size": 2,
+	"inaccuracy": 0.3,
+	"reload": 5,
+	"shootCone": 10,
+	"shots": 3,
+	"range": 140,
+	"burstSpacing": 6,
+	"ammo": {
+		"thorium": {
+			"speed": 5,
+			"damage": 8,
+			"homingPower" : 4,
+			"homingRange" : 30,
+			"bulletWidth": 8,
+			"bulletHeight": 12,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 4
+		},
+		"titanium": {
+		"speed": 4,
+		"bulletWidth": 8,
+		"bulletHight": 12,
+		"status": "freezing",
+		"shootEffect": "freezing",
+		"ammoMultuplier": 4
+		}
+	},
+	"requirements": [
+		{ "item": "graphite", "amount": 20 },
+		{ "item": "titanium", "amount": 40 },
+		{ "item": "thorium", "amount": 15 },
+		{ "item": "silicon", "amount": 30 }
+	],
+	"category": "turret",
+	"shootSound": "spray",
+	"research": "scatter"
+}
