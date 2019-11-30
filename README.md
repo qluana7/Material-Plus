@@ -5,6 +5,7 @@ This mod is Material Plus Mod for Mindustry[https://anuke.itch.io/mindustry]
 
 Translation:
 Korean : Lukince
+English(Fix) : Phythongaming
 
 Bug(Translation) report : reportbug0@gmail.com"
 
