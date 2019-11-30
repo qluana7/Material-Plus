@@ -1,7 +1,7 @@
 {
 	"type": "ImpactReactor",
 	"name": "Uranium reactor",
-	"description": "No Use, No React, Voicot [black]Coal[]",
+	"description": "No Use, No React, Voicot Coal",
 	"itemCapacity": 15,
 	"size": 3,
 	"hasLiquids": true,

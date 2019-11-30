@@ -1,0 +1,35 @@
+{
+	"type": "GenericSmelter",
+	"name": "Ion Generator"
+	"description": "Is it future material? Really?",
+	"health": 1000,
+	"itemCapacity": 6,
+	"outputItem": {"item": "ion", "amount": 4},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 480,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 16.667,
+		"items": {
+			"items": [
+                                { "item": "thorium", "amount": 2 }
+                                { "item": "plastanium", "amount":  2 }
+				                            
+			]
+		},
+                "liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.05,
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 20 },
+		{ "item": "thorium", "amount": 30 },
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.05
+	"research": "phase-weaver"
+}

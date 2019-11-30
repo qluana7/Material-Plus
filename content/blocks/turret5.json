@@ -1,0 +1,50 @@
+{
+	"type": "doubleTurret",
+	"name": "Defenser",
+	"description": "I have to defense.",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 2000,
+	"size": 4,
+	"inaccuracy": 5,
+	"reload": 4,
+	"shotWidth": 10,
+	"shootCone": 360,
+	"range": 224,
+	"ammo": {
+	 "Uranium": {
+	  "speed": 6,
+	  "damage": 60,
+	  "status": "burning",
+	  "statusDuration": 400,
+	  "bulletWidth": 18,
+	  "bulletHeight": 26,
+	  "frontColor": "#32CD32",
+	  "backColor": "#ffaa00",
+	  "shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 3
+	 },
+		"ion": {
+			"speed": 6,		
+			"damage": 72,
+			"homingPower" : 1,
+			"homingRange" : 10,
+			"bulletWidth": 18,
+			"bulletHeight": 26,
+			"frontColor": "#4aff6e"
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 4
+		}
+	},
+	"requirements": [
+		{ "item": "surge-alloy", "amount": 150 },
+		{ "item": "titanium", "amount": 100 },
+		{ "item": "plastanium", "amount": 80 },
+		{ "item": "ion", "amount": 30 }
+	],
+	"category": "turret",
+	"shootSound": "shootBig",
+	"research": "cyclone"
+}

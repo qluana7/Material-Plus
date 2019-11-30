@@ -24,9 +24,9 @@
 		}
 	},
 	"requirements": [
-		{ "item": "Uranium", "amount": 200 },
-		{ "item": "titanium", "amount": 500 },
-		{ "item": "thorium", "amount": 300 }
+		{ "item": "Uranium", "amount": 100 },
+		{ "item": "titanium", "amount": 50 },
+		{ "item": "thorium", "amount": 80 }
 	],
 	"category": "turret",
 	"shootSound": "uranfire",
