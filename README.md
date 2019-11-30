@@ -1,5 +1,5 @@
 # Info
-This mod is Material Plus Mod for (Mindustry)[https://anuke.itch.io/mindustry]
+This mod is Material Plus Mod for Mindustry[https://anuke.itch.io/mindustry]
 1.0 Version hasn't images.
 
 Translation:
