@@ -1,12 +1,6 @@
 {
- "name": "Material[green]plus[]",
- "author": "lukince",
- "description": "This mod is Material Plus Mod for [accent]Mindustry[]
-
-Translation:
-Korean : Lukince
-
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-Bug report : [accent]reportbug0@gmail.com[]",
- "version": "1.0",
+    "name": "Material[green]plus[]",
+    "author": "lukince",
+    "description": "This mod is Material Plus Mod for [accent]Mindustry[]\n\nTranslation:\nKorean : Lukince\n\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\nBug report : [accent]reportbug0@gmail.com[]",
+    "version": "1.0"
 }
