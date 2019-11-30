@@ -1,7 +1,7 @@
 {
 	"type": "burstTurret",
 	"name": "Airshot",
-	"description": "ENEMIES IS FLIES.",
+	"description": "Enemies are flies.",
 	"targetAir": true,
 	"targetGround": false,
 	"health": 3200,

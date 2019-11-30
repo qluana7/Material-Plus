@@ -1,6 +1,6 @@
 {
 	"type": "GenericSmelter",
-	"name": "Titanium Forge"
+	"name": "Titanium Forge",
 	"description": "Making titanium with silicon and water.",
 	"health": 600,
 	"itemCapacity": 10,
@@ -20,7 +20,7 @@
 		},
                 "liquid": {
 			"liquid": "water",
-			"amount": 0.05,
+			"amount": 0.05
 		}
 	},
 	"requirements": [
@@ -29,6 +29,6 @@
 	],
 	"category": "crafting",
 	"idleSound": "respawning",
-	"idleSoundVolume": 0.05
+	"idleSoundVolume": 0.05,
 	"research": "alloy-smelter"
 }

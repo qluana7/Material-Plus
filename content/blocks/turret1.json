@@ -1,7 +1,7 @@
 {
 	"type": "burstTurret",
 	"name": "OneShot Turret",
-	"description": "Nothing can survive this turret.",
+	"description": "No one can survive this turret",
 	"targetAir": true,
 	"targetGround": true,
 	"health": 1400,

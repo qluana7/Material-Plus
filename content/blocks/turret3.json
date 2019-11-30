@@ -1,7 +1,7 @@
 {
 	"type": "burstTurret",
 	"name": "Minigun",
-	"description": "More [sky]FASTER!",
+	"description": "[sky]FASTER!",
 	"targetAir": true,
 	"targetGround": true,
 	"health": 1000,
@@ -24,7 +24,7 @@
 		},
 		"silicon": {
 		"speed": 3,
-		"damage": 5
+		"damage": 5,
 		"bulletWidth": 6,
 		"bulletHight": 8,
 		"shootEffect": "shootSmall",

@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "[#32CD32]Uranium Melter"
-	"description": "It liquefies uranium. It needs [cyan]CryoFluid[]",
+	"name": "[#32CD32]Uranium Melter",
+	"description": "It liquidise uranium. It needs [cyan]CryoFluid[]",
 	"health": 6000,
 	"liquidCapacity": 20,
 	"outputLiquid": {"liquid": "uranium-liquid", "amount": 1},
@@ -31,6 +31,6 @@
 	],
 	"category": "crafting",
 	"idleSound": "respawning",
-	"idleSoundVolume": 0.05
+	"idleSoundVolume": 0.05,
 	"research": "cryofluidmixer"
 }

@@ -5,7 +5,7 @@
 	"hardness": 1,
 	"cost": 12.0,
 	"color": "#4aff6e",
-	"radioactivity": 0.0
-	"explosiveness": 0.0
+	"radioactivity": 0.0,
+	"explosiveness": 0.0,
 	"flammability": 0.0
 }

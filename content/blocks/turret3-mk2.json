@@ -1,7 +1,7 @@
 {
 	"type": "burstTurret",
 	"name": "Minigun-mk2",
-	"description": "[purple]FASTEST!",
+	"description": "[purple]NOT MORE FASTER!",
 	"targetAir": true,
 	"targetGround": true,
 	"health": 1200,

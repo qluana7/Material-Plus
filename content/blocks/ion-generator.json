@@ -1,6 +1,6 @@
 {
 	"type": "GenericSmelter",
-	"name": "Ion Generator"
+	"name": "Ion Generator",
 	"description": "Is it future material? Really?",
 	"health": 1000,
 	"itemCapacity": 6,
@@ -14,14 +14,14 @@
 		"power": 16.667,
 		"items": {
 			"items": [
-                                { "item": "thorium", "amount": 2 }
+                                { "item": "thorium", "amount": 2 },
                                 { "item": "plastanium", "amount":  2 }
 				                            
 			]
 		},
                 "liquid": {
 			"liquid": "cryofluid",
-			"amount": 0.05,
+			"amount": 0.05
 		}
 	},
 	"requirements": [
@@ -30,6 +30,6 @@
 	],
 	"category": "crafting",
 	"idleSound": "respawning",
-	"idleSoundVolume": 0.05
+	"idleSoundVolume": 0.05,
 	"research": "phase-weaver"
 }

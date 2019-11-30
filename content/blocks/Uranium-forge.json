@@ -1,6 +1,6 @@
 {
 	"type": "GenericSmelter",
-	"name": "[#32CD32]Uranium Forge"
+	"name": "[#32CD32]Uranium Forge",
 	"description": "[accent]FUSION!",
 	"health": 1200,
 	"itemCapacity": 6,
