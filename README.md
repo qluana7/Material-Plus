@@ -5,7 +5,6 @@ This mod is Material Plus Mod for [accent]Mindustry[]
 Translation:
 Korean : Lukince
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 Bug(Translation) report : [accent]reportbug0@gmail.com[]"
 
 # Version Update
