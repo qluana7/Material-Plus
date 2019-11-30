@@ -1,11 +1,11 @@
 # Info
-This mod is Material Plus Mod for [accent]Mindustry[]
+This mod is Material Plus Mod for (Mindustry)[https://anuke.itch.io/mindustry]
 1.0 Version hasn't images.
 
 Translation:
 Korean : Lukince
 
-Bug(Translation) report : [accent]reportbug0@gmail.com[]"
+Bug(Translation) report : reportbug0@gmail.com"
 
 # Version Update
 
