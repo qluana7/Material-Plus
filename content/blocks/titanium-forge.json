@@ -3,7 +3,7 @@
 	"name": "Titanium Forge",
 	"description": "Making titanium with silicon and water.",
 	"health": 600,
-	"itemCapacity": 10,
+	"itemCapacity": 16,
 	"outputItem": {"item": "titanium", "amount": 1},
 	"size": 2,
 	"hasPower": true,
@@ -14,7 +14,7 @@
 		"power": 2.5,
 		"items": {
 			"items": [
-                                { "item": "silicon", "amount": 5 }
+                                { "item": "silicon", "amount": 2 }
                                 { "item": "coal", "amount": 1 }
 			]
 		},
