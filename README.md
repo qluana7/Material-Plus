@@ -29,4 +29,8 @@ Two blocks are patched.
 
 Uranium Forge : Power changed, Power : 4,000 -> 1,000
 
-Uranium Melter : Power and craftTime changed, Power : 3,000 -> 600, craftTime : 2sec -> 0.91666 sec
+Uranium Melter : Power and craftTime changed, Power : 3,000 -> 600, craftTime : 2sec -> 0.92 sec
+
+Add two sprites : Titanium forge and Ion generator.
+
+Translate Titanium forge
