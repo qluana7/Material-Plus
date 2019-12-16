@@ -11,7 +11,7 @@
 	"craftTime": 90,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 66.666,
+		"power": 16.666,
 		"items": {
 			"items": [
                                 { "item": "thorium", "amount": 4 }
